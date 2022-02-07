@@ -1,2 +1,2 @@
-# exoCss
-html css exercises made during my training
+# animation begin
+html css exercises with transition made during my training
